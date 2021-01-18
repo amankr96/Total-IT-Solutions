@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Total-IT-Solutions/static/css/main.965e97fc.chunk.css",
+    "main.js": "/Total-IT-Solutions/static/js/main.30ebc893.chunk.js",
+    "main.js.map": "/Total-IT-Solutions/static/js/main.30ebc893.chunk.js.map",
+    "runtime-main.js": "/Total-IT-Solutions/static/js/runtime-main.c04a01a0.js",
+    "runtime-main.js.map": "/Total-IT-Solutions/static/js/runtime-main.c04a01a0.js.map",
+    "static/css/2.d65fdcc0.chunk.css": "/Total-IT-Solutions/static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.b93798f7.chunk.js": "/Total-IT-Solutions/static/js/2.b93798f7.chunk.js",
+    "static/js/2.b93798f7.chunk.js.map": "/Total-IT-Solutions/static/js/2.b93798f7.chunk.js.map",
+    "index.html": "/Total-IT-Solutions/index.html",
+    "static/css/2.d65fdcc0.chunk.css.map": "/Total-IT-Solutions/static/css/2.d65fdcc0.chunk.css.map",
+    "static/css/main.965e97fc.chunk.css.map": "/Total-IT-Solutions/static/css/main.965e97fc.chunk.css.map",
+    "static/js/2.b93798f7.chunk.js.LICENSE.txt": "/Total-IT-Solutions/static/js/2.b93798f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c04a01a0.js",
+    "static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.b93798f7.chunk.js",
+    "static/css/main.965e97fc.chunk.css",
+    "static/js/main.30ebc893.chunk.js"
+  ]
+}
